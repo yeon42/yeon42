@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-Good Day! I'm Jungyeon Lee.
-I'm majoring in it engineering and mathematics.
+- Good Day! I'm Jungyeon Lee.
+- I'm majoring in it engineering and mathematics.
 
 
 
