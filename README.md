@@ -3,7 +3,7 @@ I'm Jungyeon Lee who is intersting in **Data Science**. 👀 <br/>
 I am a senior majoring in it engineering and mathematics. 👩🏻‍💻
 
 - 🌷 I'm currently learning Data Science, AI, Machine Learning.
-- 🧤 How to reach me: jungyune22@gmail.com
+- 🧤 How to reach me ... jungyune22@gmail.com
 
 <!-- ## 💪 Skills -->
 <!-- ## 🛠 Tech Stack 🛠 -->
