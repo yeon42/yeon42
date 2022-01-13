@@ -1,9 +1,10 @@
 #### Hi there 👋
 I'm Jungyeon Lee who is intersting in **Data Science**. 👀 <br/>
-I am a senior majoring in it engineering and mathematics. 👩🏻‍💻
+I am a senior majoring in IT engineering and Mathematics. 👩🏻‍💻
 
-- 🌷 I'm currently learning Data Science, AI, Machine Learning.
+- 🌷 I'm currently learning Data Science, AI, ML, Deep Learning.
 - 🧤 How to reach me ... jungyune22@gmail.com
+- 👩🏻‍💻 What I learned ... https://yeon22.tistory.com/
 
 <!-- ## 💪 Skills -->
 <!-- ## 🛠 Tech Stack 🛠 -->
