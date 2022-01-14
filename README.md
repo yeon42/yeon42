@@ -4,7 +4,6 @@ I am a senior majoring in IT engineering and Mathematics. 👩🏻‍💻
 
 - 🌷 I'm currently learning Data Science, AI, ML, DL.
 - 🧤 How to reach me ... jungyune22@gmail.com
-- 👩🏻‍💻 What I learned ... https://yeon22.tistory.com/
 
 <!-- ## 💪 Skills -->
 <!-- ## 🛠 Tech Stack 🛠 -->
