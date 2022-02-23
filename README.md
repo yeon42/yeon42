@@ -1,18 +1,18 @@
 #### Hi there 👋
-I'm Jungyeon Lee who is intersting in **Data Science**. 👀 <br/>
-I am a senior majoring in IT engineering and Mathematics. 👩🏻‍💻
+<!-- I'm Jungyeon Lee who is intersting in **Data Science**. 👀 <br/> -->
+<!-- I am a senior majoring in IT engineering and Mathematics. 👩🏻‍💻 -->
 
-- 🌷 I'm currently learning Data Science, AI, ML, DL.
-- 🧤 How to reach me ... jungyune22@gmail.com
+<!-- - 🌷 I'm currently learning Data Science, AI, ML, DL. -->
+<!-- - 🧤 How to reach me ... jungyune22@gmail.com -->
 
 <!-- ## 💪 Skills -->
 <!-- ## 🛠 Tech Stack 🛠 -->
 
-<br/>
-<h4 align="left"> 🛠 Tech Stack 🛠 </h3>
-<br/>
+<!-- <br/> -->
+<!-- <h4 align="left"> 🛠 Tech Stack 🛠 </h3> -->
+<!-- <br/> -->
 
-|| Editing ••• Please wait a little bit ||
+<!-- || Editing ••• Please wait a little bit || -->
 
 <!--
 **yeon42/yeon42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
