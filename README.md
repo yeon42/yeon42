@@ -1,4 +1,4 @@
-#### Hi there 👋
+#### Editing 👋
 <!-- I'm Jungyeon Lee who is intersting in **Data Science**. 👀 <br/> -->
 <!-- I am a senior majoring in IT engineering and Mathematics. 👩🏻‍💻 -->
 
